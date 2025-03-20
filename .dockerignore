@@ -1,0 +1,7 @@
+.next
+.vscode
+node_modules
+.env
+db/*.db
+package-lock.json
+next-env.d.ts
